@@ -60,4 +60,3 @@ M.init = init
 M.updateGFX = updateGFX
 
 return M
-
